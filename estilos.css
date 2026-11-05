@@ -1,0 +1,34 @@
+body {
+	background-color: blanchedalmond;
+}
+
+h1 {
+	color: blue; 
+	font-family: tahoma;
+}
+
+h2 {
+	color: darkblue;
+	font-family: tahoma;
+}
+
+.destaque{
+	border: 2px solid red;
+	background-color: darksalmon;
+}
+
+.characters{
+	color: darkred;
+}
+
+.episodes{
+	color: darkred;
+}
+
+.games{
+	color: darkred;
+}
+
+/* 1. A regra CSS mais difícil de aplicar para mim foi o selecionador de classe,.class (como em .episodes). No início não estava a perceber o porquê de não estar a conseguir ligar o CSS á classe do html, mas depois percebi que tinha posto a minha classe no </div> e não no <div>
+2. Enquanto testava no browser, tive de voltar ao notepad++ repetidas vezes pois não estava a conseguir aplicar as fontes que queria aplicar ao texto. No fim, descobri que nem todas as fontes são automaticamente compatíveis, e testei outras que finalmente resultaram.
+3. O href, o qual usei na página index.html, serve para especificar o endereço de um link no html, ou seja, se colocar um href num parágrafo, este irá ser clicável e poderá levar o utlizador a outra página a partir desse link inserido.*/ 
